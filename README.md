@@ -14,6 +14,8 @@ https://apicrm.cybersoft.edu.vn/files/16-03-2023-02-07-57-capstonejs.pdf
 
 ## Link demo
 
+capstone-javascript.cybersoft.nguyenvanthanh.bc43.surge.sh
+
 ## Hệ thống thương mại điện tử giày Nike
 
 Đây là một trang web thương mại điện tử chuyên cung cấp các sản phẩm giày của thương hiệu Nike.
